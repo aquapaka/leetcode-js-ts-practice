@@ -4,13 +4,13 @@
 
 Make sure that Nodejs is installed
 
-**Javascript file:**
+**To run Javascript file:**
 
 ```cmd
 Node <FILEPATH>
 ```
 
-**Typescript file:**
+**To run Typescript file:**
 
 ```cmd
 npx ts-node <FILEPATH>
